@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Lab1PlaceGroup</Name>
+		<Assembly>CreateSheets.dll</Assembly>
+		<FullClassName>CreateSheets.RevitApp</FullClassName>
+		<Text>Lab1PlaceGroup</Text>
+		<Description>Places the Group at Particular Point</Description>
+		<AddInId>
+			90883CF5-952D-4B26-BAF0-CFD236EF1903
+		</AddInId>
+		<VendorId>shoaib</VendorId>
+		<VendorDescription>BIM Developer, ashrafabbasramadan@gmail.com</VendorDescription>
+		<TooltipImage>c:\MyProgram\Autodesk.png</TooltipImage>
+		<LargeImage>C:\Users\SERVER\Downloads\WavingHand.png</LargeImage>
+	</AddIn>
+</RevitAddIns>
